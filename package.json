@@ -19,8 +19,11 @@
   "homepage": "https://github.com/heypano/learningbabel#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
     "babel-plugin-transform-es2015-modules-amd": "^6.24.1",
-    "babel-preset-env": "^1.6.1"
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.10.0"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0"
