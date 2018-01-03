@@ -1,5 +1,5 @@
 const path = require('path');
-const entryFile = "./src/main.js";
+const entryFile = "./src/app.js";
 const distPath = path.resolve(__dirname, "dist");
 const bundleName = 'bundle.js';
 
